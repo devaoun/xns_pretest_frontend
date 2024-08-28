@@ -1,0 +1,57 @@
+[
+    {
+      "id": 1,
+      "quote": "ตื่นเช้าล้างหน้าแปรงฟัน....",
+      "posted_by": {
+        "id": 12,
+        "username": "John Mc",
+        "profile_picture": "profileIcon"
+      },
+      "posted_at": "2024-08-25T14:30:00Z",
+      "votes": 12
+    },
+    {
+        "id": 2,
+        "quote": "กลางคืนอย่างห้าว ตอนเช้าอย่างง่วง",
+        "posted_by": {
+          "id": 15,
+          "username": "Jane Doe",
+          "profile_picture": "profileIcon"
+        },
+        "posted_at": "2024-08-26T09:15:00Z",
+        "votes": 25
+      },
+      {
+          "id": 3,
+          "quote": "ไม่ชอบอ้อนเท่าไหร่ ชอบโอนมากกว่า",
+          "posted_by": {
+            "id": 8,
+            "username": "Michale J JR.",
+            "profile_picture": "profileIcon"
+          },
+          "posted_at": "2024-08-27T08:00:00Z",
+          "votes": 8
+        },
+        {
+            "id": 4,
+            "quote": "เบื่อจังเลย ทำไงก็ที่ 1 ตลอด",
+            "posted_by": {
+              "id": 24,
+              "username": "Max Verstap",
+              "profile_picture": "profileIcon"
+            },
+            "posted_at": "2024-08-27T10:15:00Z",
+            "votes": 36
+          },
+          {
+              "id": 5,
+              "quote": "ใบไม้ยังร่วง นับประสาอะไรกับคนง่วงอย่างเรา",
+              "posted_by": {
+                "id": 15,
+                "username": "John Nonlen",
+                "profile_picture": "profileIcon"
+              },
+              "posted_at": "2024-08-27T10:45:00Z",
+              "votes": 11
+            }
+]

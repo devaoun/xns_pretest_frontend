@@ -1,0 +1,46 @@
+[
+    {
+        "id": 1,
+        "quote": "คนกินตาย... คนคายรอด!!",
+        "posted_by": {
+          "id": 17,
+          "username": "Nong CCC",
+          "profile_picture": "profileIcon"
+        },
+        "posted_at": "2024-08-25T14:30:00Z",
+        "votes": 2416
+      },
+      {
+          "id": 2,
+          "quote": "ตังค์ไม่มี แต่หนี้ยืนหนึ่ง",
+          "posted_by": {
+            "id": 25,
+            "username": "Peter Dan",
+            "profile_picture": "profileIcon"
+          },
+          "posted_at": "2024-08-26T09:15:00Z",
+          "votes": 1895
+        },
+        {
+            "id": 3,
+            "quote": "มีด คมพอมั้ย!?!?",
+            "posted_by": {
+              "id": 8,
+              "username": "Cat Meow",
+              "profile_picture": "profileIcon"
+            },
+            "posted_at": "2024-08-27T08:00:00Z",
+            "votes": 1587
+          },
+          {
+              "id": 4,
+              "quote": "ขอบคุณครับ",
+              "posted_by": {
+                "id": 24,
+                "username": "Downey JR.",
+                "profile_picture": "profileIcon"
+              },
+              "posted_at": "2024-08-27T10:15:00Z",
+              "votes": 1287
+            }
+]
